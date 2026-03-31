@@ -1,7 +1,7 @@
 # Digital-literacy-project
 
 # Project Overview
-This repository contains my submission for the Digital Literacy project under the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, my role is to guide peers in navigating the digital world responsibly and professionally. The project is organized into five tasks, each focusing on a different aspect of digital literacy, with reflections documented in the project report.
+This repository contains my submission for the Digital Literacy project. As a Student Digital Ambassador, my role is to guide peers in navigating the digital world responsibly and professionally. The project is organized into five tasks, each focusing on a different aspect of digital literacy, with reflections documented in the project report.
 
 
 # Task Summaries
@@ -18,4 +18,4 @@ This repository contains my submission for the Digital Literacy project under th
 # Learning Outcome
 This project helped me understand digital literacy as a blend of technical skills, professional communication, and online safety. It strengthened my ability to design resources, build a digital portfolio, collaborate online, and raise awareness about cybercrime. As a Digital Ambassador, I am now better prepared to guide peers in using technology ethically, safely, and effectively.
 
-Would you like me to also add a short “Getting Started” section (with instructions on how faculty can navigate your repo) so it looks even more professional?
+
