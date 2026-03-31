@@ -1,0 +1,20 @@
+- Check Email & Message Authenticity
+Verify sender addresses and avoid clicking on suspicious links or attachments.
+- Use Strong, Unique Passwords
+Combine letters, numbers, and symbols; never reuse the same password across accounts.
+- Enable Two-Factor Authentication (2FA)
+Add an extra security layer to email, social media, and banking apps.
+- Be Careful on Public Wi-Fi
+Avoid logging into banking or UPI apps on unsecured networks.
+- UPI Safety – Verify Recipient Details
+Double-check UPI IDs or phone numbers before sending money. Don’t rely only on display names.
+- UPI Safety – Reject Unknown Requests
+Never approve unsolicited “collect request” notifications or share your UPI PIN.
+- Limit Personal Information Sharing
+Avoid posting sensitive details like phone numbers, addresses, or college IDs on social media.
+- Keep Devices & Apps Updated
+Regularly update operating systems and apps to patch security vulnerabilities.
+- Stay Alert to Scams
+Be cautious of offers that sound “too good to be true” (lotteries, cashback, prizes).
+- Report Cybercrime Immediately
+Use the National Cyber Crime Portal (cybercrime.gov.in) or call the Helpline 1930 to report fraud, cyberbullying, or identity theft.
